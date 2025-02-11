@@ -1,0 +1,15 @@
+{
+  "firstName": "Nur",
+  "lastName": "Test",
+  "day": "1",
+  "month": "1",
+  "year": "1998",
+  "company": "Test",
+  "address1": "Test",
+  "address2": "Test2",
+  "country": "Canada",
+  "state": "Test",
+  "city": "Test",
+  "zipcode": "000",
+  "mobileNumber": "055555555"
+}
